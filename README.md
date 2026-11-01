@@ -85,11 +85,11 @@ const gabriel = {
 ## <img src="https://img.shields.io/badge/-%3E_-2563eb?style=flat-square" height="22"/> GitHub stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tecchgardd&theme=tokyonight" alt="Profile details" width="100%"/>
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="49%"/>
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tecchgardd&theme=tokyonight" alt="Stats" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tecchgardd&theme=tokyonight" alt="Most commit language" width="49%"/>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ const gabriel = {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tecchgardd/tecchgardd/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+  <img src="https://ghchart.rshah.org/7c3aed/tecchgardd" alt="Contribution chart" width="100%"/>
 </p>
 
 ---
